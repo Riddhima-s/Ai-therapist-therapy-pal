@@ -2,4 +2,4 @@ flask
 flask-cors
 google-generativeai
 deep-translator
-gunicorn  
+waitress
